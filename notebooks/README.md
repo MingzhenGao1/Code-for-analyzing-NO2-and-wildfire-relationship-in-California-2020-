@@ -1,3 +1,3 @@
 Notebooks:
 
-Contains all scripts necessary part by part to reproduce figures 1-14 in the final report.
+Contains all scripts necessary to reproduce model and figures 1-14 in the final report.

@@ -1,2 +1,2 @@
-# Code-for-Assessment_of_California-s_NO-_Pollution_Status_in_2020
-This repository provides a full workflow for analyzing the relationship between tropospheric NO₂ concentrations and wildfire activity across California in 2020. It includes data loading, preprocessing, ROI selection using FIRMS fire records, seasonal/spatial NO₂ analysis, anomaly detection, correlation testing, and visualization.
+# Assessment_of_California-s_NO-_Pollution_Status_in_2020
+This repository provides a complete data-driven workflow for assessing nitrogen dioxide (NO₂) pollution across California in 2020 and exploring its relationship with large-scale wildfire activity. The year 2020 is a unique case study due to the coexistence of record-breaking wildfires and widespread COVID-19 lockdown measures, which together created complex and contrasting NO₂ emission dynamics.
